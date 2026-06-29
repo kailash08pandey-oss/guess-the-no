@@ -1,77 +1,18 @@
-# 🎯 Number Guessing Game
+#  Number Guessing Game
 
 A simple Number Guessing Game developed using Python.
 
 The computer randomly selects a number, and the player has to guess it. The game provides hints if the guess is too high or too low.
-
----
-
-## ✨ Features
-
-- 🎲 Random number generation
-- 🎯 Easy & Hard difficulty levels
-- 📈 "Too High" hint
-- 📉 "Too Low" hint
-- 🔄 Play Again option
-- 🐍 Built with Python
-
----
-
-## 🛠 Technologies Used
+##  Features
+-  Random number generation
+-  Easy & Hard difficulty levels
+ Play Again option
+-  Built with Python
+# Technologies Used
 
 - Python
 - Random Module
-
----
-
-## ▶️ How to Run
-
-1. Download the project.
-2. Open the project in VS Code.
-3. Run the Python file.
-
-```bash
-python guess_no.py
-```
-
----
-
-## 🎮 Gameplay
-
-```
-Welcome to Guess the Number Game
-
-Choose the difficulty level (Easy / Hard): easy
-
-I am taking a number between (1-50)
-
-Guess the Number: 25
-
-Too High
-
-Guess Again: 15
-
-Too Low
-
-Guess Again: 20
-
-🎉 Congratulations! You have guessed the number.
-```
-
----
-
-## 🚀 Future Improvements
-
-- Medium Difficulty
-- Attempt Counter
-- Score System
-- Timer
-- Leaderboard
-- GUI Version using Tkinter
-
----
-
-## 👨‍💻 Author
+##  Author
 
 **Kailash Pandey**
 
